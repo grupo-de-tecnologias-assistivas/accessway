@@ -13,15 +13,15 @@ Lista de nomes selecionados para votação e definição da identidade oficial d
 7. **NITA — Núcleo de Inovação e Tecnologia Assistiva**
 8. **GITA — Grupo de Inovação em Tecnologia Assistiva**
 
-## Texto Pronto para Enquete
+## projeto 1:
 
-Votem no nome oficial do grupo (todos atendem ao critério de conter a palavra "assistiva"):
+ ecomapa
+ GuiaVoz / RotaVoz
+ Navis
+ EloMapa
 
-- [ ] Núcleo de Tecnologia Assistiva
-- [ ] Lúmen Tecnologia Assistiva
-- [ ] Rede Assistiva
-- [ ] AssistivaLab
-- [ ] Assistiva Hub
-- [ ] LabTA — Laboratório de Tecnologia Assistiva
-- [ ] NITA — Núcleo de Inovação e Tecnologia Assistiva
-- [ ] GITA — Grupo de Inovação em Tecnologia Assistiva
+## projeto 2:
+
+ Timbre
+ Vocalis
+ LêPraMim
