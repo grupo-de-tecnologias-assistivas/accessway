@@ -91,6 +91,7 @@ Resumo em texto da arquitetura (acessível para leitores de tela):
 │   ├── template-estudo-fase-0.md            # Template acessível para Fase 0 no repositório estudos
 │   ├── template-estudo-fase-1.md            # Template acessível para Fase 1 no repositório estudos
 │   ├── template-estudo-fase-2.md            # Template acessível para Fase 2 no repositório estudos
+│   ├── sugestoes-nomes-grupo.md             # Lista de sugestões de nomes para o grupo
 │   └── estrategia-2-aps-e-esp32.md          # Estratégia técnica para 2 APs, sinais de outros andares e ESP32
 └── README.md                                # Este documento (visão e planejamento do Projeto 1)
 ```
@@ -119,6 +120,7 @@ Documentos e pastas presentes atualmente no repositório:
 - **Estudos complementares da sprint:** [`estudos/README.md`](./estudos/README.md)
 - **Fluxo de sprints, acessibilidade, branches, commits e PRs:** [`org-github/CONTRIBUTING.md`](./org-github/CONTRIBUTING.md)
 - **Página principal da organização (para `.github/profile/README.md`):** [`org-github/profile-README.md`](./org-github/profile-README.md)
+- **Sugestões de nomes para o grupo:** [`org-github/sugestoes-nomes-grupo.md`](./org-github/sugestoes-nomes-grupo.md)
 - **Estratégia com 2 APs, sinais de outros andares e papel do ESP32:** [`org-github/estrategia-2-aps-e-esp32.md`](./org-github/estrategia-2-aps-e-esp32.md)
 - **Template padrão de Pull Request:** [`org-github/PULL_REQUEST_TEMPLATE.md`](./org-github/PULL_REQUEST_TEMPLATE.md)
 - **Template de issue de implementação:** [`org-github/ISSUE_TEMPLATE-implementacao.md`](./org-github/ISSUE_TEMPLATE-implementacao.md)
