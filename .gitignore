@@ -1,0 +1,19 @@
+# Python / Jupyter
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Kotlin / Gradle / KMP / Android
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+.kotlin/
+
+# Sistema / IDEs
+.DS_Store
+Thumbs.db
+.vscode/
